@@ -1,6 +1,6 @@
 # INTO GOLANG
 
-Ini adalah catatan dalam proses belajar mendalami bahasa Golang.
+Repositori ini adalah kumpulan catatan, potongan kode, dan contoh-contoh yang dibuat selama proses belajar bahasa pemrograman Go. Isi repositori mencakup berbagai aspek dari Go, termasuk sintaks dasar, konkurensi, penanganan error, dan lainnya
 
 ## Hello World
 
